@@ -30,6 +30,9 @@ flutter:
   plugin:
     androidPackage: com.vincentkammerer.sim_data
     pluginClass: SimDataPlugin
+    ios:
+      pluginClass: SimDataPluginios:
+        pluginClass: SimDataPlugin
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg
